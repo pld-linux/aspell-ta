@@ -21,7 +21,7 @@ Tamil dictionary (i.e. word list) for aspell.
 S³ownik tamilski (lista s³ów) dla aspella.
 
 %prep
-%setup -q -n %{name}-%{version}-%{subv}
+%setup -q -n aspell6-ta-%{version}-%{subv}
 
 %build
 # note: configure is not autoconf-generated
