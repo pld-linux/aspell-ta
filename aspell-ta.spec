@@ -1,5 +1,5 @@
 Summary:	Tamil dictionary for aspell
-Summary(pl.UTF-8):   Słownik tamilski dla aspella
+Summary(pl.UTF-8):	Słownik tamilski dla aspella
 Name:		aspell-ta
 Version:	20040424
 %define	subv	1
