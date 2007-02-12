@@ -1,5 +1,5 @@
 Summary:	Tamil dictionary for aspell
-Summary(pl):	S≥ownik tamilski dla aspella
+Summary(pl.UTF-8):   S≈Çownik tamilski dla aspella
 Name:		aspell-ta
 Version:	20040424
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Tamil dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik tamilski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik tamilski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-ta-%{version}-%{subv}
